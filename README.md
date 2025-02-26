@@ -1,5 +1,9 @@
 # The Interior Design Firm
 
+<div align="center">
+  <img src ="./Bubble effects.png" height="250px"/>  
+</div>
+
 ## Overview
 The Interior Design Firm is a web-based application designed to showcase modern and elegant interior design ideas. The project allows users to explore various design templates and provides interactive features to help visualize their design choices.
 
