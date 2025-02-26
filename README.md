@@ -1,7 +1,7 @@
 # The Interior Design Firm
 
 <div align="center">
-  <img src ="./The interior design.png" height="250px"/>  
+  <img src ="./The interior design.png" height="250px" width="100%"/>  
 </div>
 
 ## Overview
